@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    
+}
+.formulario{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+}
+.nombre{
+    padding: 10px;
+    size: 20cm;
+}
+.telefono{
+    padding: 10px;
+
+}
+.correo{
+    padding: 10px;
+}
+
+.forma{
+    padding: 10px;
+}
