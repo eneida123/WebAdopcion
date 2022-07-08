@@ -8,10 +8,13 @@ h1{
     align-items: center;
     flex-direction: column;
     padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 3px;
 }
 .nombre{
     padding: 10px;
     size: 20cm;
+    
 }
 .telefono{
     padding: 10px;
