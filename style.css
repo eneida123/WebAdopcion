@@ -13,7 +13,9 @@ h1{
     padding: 10px;
     size: 20cm;
 }
+.correo{
+    padding: 10px;
+}
 .telefono{
-    -webkit-appearance: none; 
-  margin: 0; 
+    padding: 10px;
 }
