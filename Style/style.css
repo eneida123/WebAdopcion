@@ -19,3 +19,8 @@ h1{
 .telefono{
     padding: 10px;
 }
+body{
+    background-image: url(.../img/fondo.jpeg);
+    background-repeat: repeat;
+    background-size: cover;
+}
