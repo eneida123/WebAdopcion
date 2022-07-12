@@ -1,5 +1,17 @@
+
 body{
     background-image: url("../img/fondo.jpeg");
     background-repeat: repeat;
     background-size: cover;
+    color: rgb(255, 255, 255);
+    font-size:large;
+
+}
+h1{
+    text-align: center;
+}
+@media (max-width:600px){
+    body{
+        font-size: 12px;
+    }
 }
